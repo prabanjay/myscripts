@@ -1,2 +1,0 @@
-# myscripts
-my scripts location
